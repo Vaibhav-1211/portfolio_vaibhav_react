@@ -1,28 +1,18 @@
-// import Footer from "./components/footer"
-// import { Outlet } from "react-router-dom"
 import Cards from "./components/cards"
 import Footer from "./components/footer"
 import Gallery from "./components/gallery"
-// import Header from "./components/header"
 import HeroSection from "./components/hero"
 import PDFDownloader from "./pages/Page2"
-// import Page2 from "./pages/Page2"
-// import Page3 from "./pages/Page3"
 import Project from "./pages/project"
 
 
 
 const App = () => {
-  // const page = {
-  //   theme: {
-  //     padding: "250px 20px"
-  //   }
-  // };
   return (
     <>
       <nav id="navbar-example2" className="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
         <div className="container-fluid">
-          <a className="navbar-brand ms-xl-5 fw-bold" href="#scrollspyHeading1">Vaibhav's Portfolio</a>
+          <a className="navbar-brand ms-xl-5 fw-bold" href="#scrollspyHeading1">Vaibhav Kabira</a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar"><span className="navbar-toggler-icon"></span></button>
 
 
