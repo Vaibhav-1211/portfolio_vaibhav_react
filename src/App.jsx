@@ -22,7 +22,7 @@ const App = () => {
     <>
       <nav id="navbar-example2" className="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
         <div className="container-fluid">
-          <a className="navbar-brand ms-xl-5 fw-bold" href="#scrollspyHeading1">Vaibhav's Portfolio</a>
+          <a className="navbar-brand ms-xl-5 fw-bold" href="#scrollspyHeading1">Vaibhav Kabira</a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar"><span className="navbar-toggler-icon"></span></button>
 
 
