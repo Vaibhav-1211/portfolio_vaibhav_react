@@ -1,9 +1,4 @@
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-
 const Footer = () => {
-
-  // const element = <FontAwesomeIcon icon="fa-brands fa-linkedin" />
-
   return (
 
 
